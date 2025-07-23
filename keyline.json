@@ -1,10 +1,10 @@
 [
   {
-    "id": "97bdeda34d18207",
+    "id": "",
     "username": "retrocode",
     "password": "12345",
-    "expiresAt": "2026-07-24",
-    "allowOffline": false
+    "expiresAt": "2025-07-24",
+    "allowOffline": true
   },
   {
     "id": "android_device_id_2",
